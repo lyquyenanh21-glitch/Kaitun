@@ -1,4 +1,4 @@
--- @anh.vip.pro.fruits
+-- ok bạn nhất
 
 if not game:IsLoaded() then game.Loaded:Wait() end
 repeat task.wait() until game.Players.LocalPlayer
@@ -100,7 +100,7 @@ InfoLabel.Parent = MainFrame
 InfoLabel.BackgroundTransparency = 1.000
 InfoLabel.Size = UDim2.new(1, 0, 0, 35)
 InfoLabel.Font = Enum.Font.GothamBold
-InfoLabel.Text = "Tiktok: @tiktokacckhoe1"
+InfoLabel.Text = "Tiktok: @anh.vip.pro.fruits"
 InfoLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 InfoLabel.TextSize = 22
 InfoLabel.TextStrokeColor3 = Color3.fromRGB(0, 0, 0)
