@@ -1,4 +1,4 @@
--- @tiktokacckhoe1
+-- @anh.vip.pro.fruits
 
 if not game:IsLoaded() then game.Loaded:Wait() end
 repeat task.wait() until game.Players.LocalPlayer
